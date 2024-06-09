@@ -7,7 +7,7 @@ async function loadBlockchain() {
         return;
     }
 
-    const contractAddress = 'YOUR_CONTRACT_ADDRESS';  // Remplacez par l'adresse de votre contrat
+    const contractAddress = 0xd9145CCE52D386f254917e481eB44e9943F39138;  // Remplacez par l'adresse de votre contrat
     const abi = [
         // ABI de votre contrat
         {
